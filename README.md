@@ -2,7 +2,7 @@ Este repo es una copia temporal de https://github.com/lilveniceguy/Chilexpress-W
 
 Agradecimientos por todo lo realizado a lilvenceguy. :)
 
-=========================================================================================================================
+=======================================================================
 
 
 - Funciones PHP para conexión, calculo de Tarifa y geolocalización/normalización de Regiones, comunas, calles y numeros vía Chilexpress.
